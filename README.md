@@ -1,1 +1,1 @@
-Exercises solutions and drafts
+Leetcode like challenges solutions and drafts
