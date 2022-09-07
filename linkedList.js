@@ -59,9 +59,3 @@ class LinkedList {
 }
 }
 
-const list = new LinkedList();
-list.add('oi')
-list.add(3);
-list.add(5);
-
-console.log(list);
